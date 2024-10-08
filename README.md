@@ -10,14 +10,16 @@ The dashboard provides insights into time-consuming activities, annual working h
 
 This Power BI Activity Tracker dashboard includes the following functionalities and key metrics:
 
-Time-Consuming Activities: Visualizes the top activities consuming the most time, categorized by frequency (daily, monthly, quarterly, yearly).
-Annual Working Hours: Displays total working hours for each employee, helping to track workload and identify high-effort individuals.
-Complexity Rate: Shows task complexity distribution across levels (L1, L2, L3) to aid in workload balancing.
-Maximum Recurring Activity: Highlights tasks that recur most often, indicating potential areas for automation or process improvement.
-Departmental Time Allocation: Breaks down time spent across departments (e.g., Finance, Treasury) for a better understanding of resource utilization.
+1. Time-Consuming Activities: Visualizes the top activities consuming the most time, categorized by frequency (daily, monthly, quarterly, yearly).
+2. Annual Working Hours: Displays total working hours for each employee, helping to track workload and identify high-effort individuals.
+3. Complexity Rate: Shows task complexity distribution across levels (L1, L2, L3) to aid in workload balancing.
+4. Maximum Recurring Activity: Highlights tasks that recur most often, indicating potential areas for automation or process improvement.
+5. Departmental Time Allocation: Breaks down time spent across departments (e.g., Finance, Treasury) for a better understanding of resource utilization.
+   
 🧩 Filters
-Task Owner: Filter tasks based on specific employees to analyze individual workloads.
-Task Complexity: Filter tasks by complexity levels (L1, L2, L3) for high-priority or high-difficulty assignments.
-Company: Filter by company if managing multiple entities.
-Period: View data for specific periods, such as monthly or quarterly.
-Frequency: Filter based on task recurrence frequency (daily, monthly, quarterly, yearly).
+
+1. Task Owner: Filter tasks based on specific employees to analyze individual workloads.
+2. Task Complexity: Filter tasks by complexity levels (L1, L2, L3) for high-priority or high-difficulty assignments.
+3. Company: Filter by company if managing multiple entities.
+4. Period: View data for specific periods, such as monthly or quarterly.
+5. Frequency: Filter based on task recurrence frequency (daily, monthly, quarterly, yearly).
