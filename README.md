@@ -7,6 +7,7 @@ Power BI Activity Tracker dashboard monitors the workload and efficiency of empl
 The dashboard provides insights into time-consuming activities, annual working hours, task complexity, maximum recurring activities, and departmental time allocation. It’s designed for managers and stakeholders looking to optimize time utilization and understand workload distribution across the team.
 
 📊 Features & KPIs
+
 This Power BI Activity Tracker dashboard includes the following functionalities and key metrics:
 
 Time-Consuming Activities: Visualizes the top activities consuming the most time, categorized by frequency (daily, monthly, quarterly, yearly).
